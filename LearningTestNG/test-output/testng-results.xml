@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18683" started-at="2022-12-07T05:25:05 UTC" finished-at="2022-12-07T05:25:23 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18683" started-at="2022-12-07T05:25:05 UTC" finished-at="2022-12-07T05:25:23 UTC">
+      <class name="task8.DataProviderExample">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:task8.DataProviderExample@731a74c]" name="invokeBrowser" is-config="true" duration-ms="4141" started-at="2022-12-07T05:25:05 UTC" finished-at="2022-12-07T05:25:09 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="loginToApplication(java.lang.String, java.lang.String)[pri:0, instance:task8.DataProviderExample@731a74c]" name="loginToApplication" duration-ms="1415" started-at="2022-12-07T05:25:09 UTC" data-provider="getData" finished-at="2022-12-07T05:25:10 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr460844]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asygezY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:task8.DataProviderExample@731a74c]" name="closeBrowser" is-config="true" duration-ms="825" started-at="2022-12-07T05:25:10 UTC" finished-at="2022-12-07T05:25:11 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:task8.DataProviderExample@731a74c]" name="invokeBrowser" is-config="true" duration-ms="3292" started-at="2022-12-07T05:25:11 UTC" finished-at="2022-12-07T05:25:14 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="loginToApplication(java.lang.String, java.lang.String)[pri:0, instance:task8.DataProviderExample@731a74c]" name="loginToApplication" duration-ms="1467" started-at="2022-12-07T05:25:14 UTC" data-provider="getData" finished-at="2022-12-07T05:25:16 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr460844]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asygezY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:task8.DataProviderExample@731a74c]" name="closeBrowser" is-config="true" duration-ms="815" started-at="2022-12-07T05:25:16 UTC" finished-at="2022-12-07T05:25:17 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:task8.DataProviderExample@731a74c]" name="invokeBrowser" is-config="true" duration-ms="3383" started-at="2022-12-07T05:25:17 UTC" finished-at="2022-12-07T05:25:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="loginToApplication(java.lang.String, java.lang.String)[pri:0, instance:task8.DataProviderExample@731a74c]" name="loginToApplication" duration-ms="2379" started-at="2022-12-07T05:25:20 UTC" data-provider="getData" finished-at="2022-12-07T05:25:23 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr460844]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asygezY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:task8.DataProviderExample@731a74c]" name="closeBrowser" is-config="true" duration-ms="897" started-at="2022-12-07T05:25:23 UTC" finished-at="2022-12-07T05:25:23 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- task8.DataProviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
